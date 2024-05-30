@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+  <body class="sb-nav-fixed" stlye="background-color:">
+
+    <div id="container">
+      <div id="map"></div>
+      <div id="directionsPanel"></div>
+    </div>
+
+    <div class="controls">
+      <div class="clinic">
+        <select class="form-select form-select-sm" aria-label="Select Clinic Type" name="clinicType" id="clinicType">
+          <option selected>Select Clinic Type</option>
+          <option value="polyclinic">Polyclinic</option>
+          <option value="hospital">Hospital</option>
+          <option value="both">Both</option>
+        </select>
+      </div>
+
+      <div class="travel">
+        <select class="form-select form-select-sm" aria-label="Select Travel Mode" name="travelMode" id="travelMode">
+          <option selected>Select Travel Mode</option>
+          <option value="DRIVING">Driving</option>
+          <option value="TRANSIT">Public Transport</option>
+          <option value="WALKING">Walking</option>
+        </select>
+      </div>
+
+      <button class="btn btn-primary" id="findNearest" onclick="findNearestClinic()">Find Nearest Clinic</button>
+    </div>
+
+    <!-- Own JS Script -->
+    <script src="./script2.js"></script>
+    <!-- Google Maps API -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBbXCH9EX3vmuRrZdXA5djiKD3ifJIMLg&callback=initMap"
+      async defer></script>
+  </body>
+
+</html>
