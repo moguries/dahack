@@ -80,6 +80,16 @@ function calculateNearestPoliceStn(userLocation) {
     { name: 'Choa Chu Kang NPC', lat: 1.3948, lng: 103.7448},
     { name: 'Jurong West NPC', lat: 1.3493, lng: 103.7144},
     { name: 'Hong Kah North NPC', lat: 1.3600, lng: 103.7493},
+    { name: ‘Woodlands West NPC', lat: 1.4334, lng: 103.7788},
+    { name: ‘Sembawang NPC', lat: 1.4452, lng: 103.8196},
+    { name: ‘Woodlands East NPC', lat: 1.4388, lng: 103.8023},
+    { name: ‘Yishun North NPC', lat: 1.4293, lng: 103.8402},
+    { name: ‘Yishun South NPC', lat: 1.4153, lng: 103.8348},
+    { name: ‘Kampong Java NPC', lat: 1.3119, lng: 103.8464},
+    { name: ‘Bishan NPC', lat: 1.3578, lng: 103.8477},
+    { name: ‘Bukit Timah NPC', lat: 1.3225, lng: 103.8123},
+    { name: ‘Toa Payoh NPC', lat: 1.3346, lng: 103.8505},
+    { name: ‘River Valley NPC', lat: 1.2918, lng: 103.8265},
   ];
 
   var nearestPoliceStn;
