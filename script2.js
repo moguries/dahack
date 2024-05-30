@@ -67,6 +67,19 @@ function calculateNearestPoliceStn(userLocation) {
     { name: 'Jurong Police Division HQ', lat: 1.3511, lng: 103.7025},
     { name: 'Kampong Java NPC', lat: 1.3120, lng: 103.8465},
     { name: 'Orchard NPC', lat: 1.2990, lng: 103.8398},
+    { name: 'Bukit Merah East NPC', lat: 1.2785, lng: 103.8394},
+    { name: 'Marina Bay NPC', lat: 1.2746, lng: 103.8489},
+    { name: 'Rochor NPC', lat: 1.3076, lng: 103.8543},
+    { name: 'Clementi NPC', lat: 1.3220, lng: 103.7601},
+    { name: 'Bukit Merah West NPC', lat: 1.2856, lng: 103.8233},
+    { name: 'Jurong East NPC', lat: 1.3401, lng: 103.7372},
+    { name: 'Queenstown NPC', lat: 1.2883, lng: 103.8029},
+    { name: 'Nanyang NPC', lat: 1.3511, lng: 103.7025},
+    { name: 'Bukit Batok NPC', lat: 1.3491, lng: 103.7585},
+    { name: 'Bukit Panjang NPC', lat: 1.3868, lng: 103.7716},
+    { name: 'Choa Chu Kang NPC', lat: 1.3948, lng: 103.7448},
+    { name: 'Jurong West NPC', lat: 1.3493, lng: 103.7144},
+    { name: 'Hong Kah North NPC', lat: 1.3600, lng: 103.7493},
   ];
 
   var nearestPoliceStn;
