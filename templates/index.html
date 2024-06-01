@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crime Hotspot Analysis</title>
+    <style>
+        header{
+            height: 100vh;
+            background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../static/police_car.jpg) center/cover no-repeat fixed;
+            display: flex;
+            flex-direction: column;
+            justify-content: stretch;
+            object-fit: cover;
+        }
+        .banner{
+            flex: 1;
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: #fff;
+        }
+
+        .banner-title{
+            padding-top: 2%;
+            font-size: 3rem;
+            line-height: 1.2;
+            padding-bottom: 2%;
+        }
+
+        .banner-title span{
+            color: red;
+        }
+
+        .banner-title strong{
+            color: blue;
+        }
+
+        body{
+            justify-content: center;
+            align-items: center;
+            background-color: lightblue;
+            overflow-x:hidden;
+            height:100vh;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <div class="banner-container">
+                <h1 class="banner-title">
+                    <strong>Welcome </strong> to <span>CrimeMap</span>!
+                </h1>
+                <h5>Scroll down to access your one-stop solution to keeping your neighbourhood safe</h5>
+            </div>
+        </div>
+    </header>
+
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".csv"><br><br>
+        <label for="police_station">Select Police Station:</label>
+        <select name="police_station" id="police_station">
+            <option value="Ang Mo Kio Police Division, 1 Yio Chu Kang Rd, Singapore">Ang Mo Kio Police Division</option>
+            <option value="Bedok Police Division, 30 Bedok North Road, Singapore">Bedok Police Division</option>
+            <option value="Clementi Police Division, 6 Lempeng Drive, Singapore">Clementi Police Division</option>
+        </select><br><br>
+        <button type="submit">Upload</button>
+    </form>
+</body>
+</html>
+
