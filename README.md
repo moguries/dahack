@@ -8,8 +8,9 @@ response times, contributing to stronger domestic security.
 
 ## Instrutions
 1. clone and launch the github repo
-2. run the app3.py file
-3. download the crime_hotspots_csv files and upload them onto the website
+2. install the dependencies in requirements.txt
+3. run the app3.py file
+4. download the crime_hotspots_csv files and upload them onto the website
    
 
 ## Usages
