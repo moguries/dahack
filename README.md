@@ -6,6 +6,11 @@ CrimeMap is a website which aims to optimise resource allocation for law enforce
 hotspot data analysis and patrol route optimisation. Our software prioritises higher risk areas and shortens emergency
 response times, contributing to stronger domestic security.
 
+## Instrutions
+1. launch the github repo and run the app3.py file
+2. download the crime_hotspots_csv files and upload them onto the website
+   
+
 ## Usages
 * Data input: Upload crime data files and select police station
 * Data analysis: Data is analysed to generate optimal patrol routes based on crime hotspots
@@ -19,4 +24,5 @@ In the development of CrimeMap, we utilised several libraries and APIs to enhanc
 
 ## Acknowledgements
 This project is team Dahack's submission to NUS LifeHack 2024.
+
 
