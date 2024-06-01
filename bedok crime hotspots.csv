@@ -1,0 +1,101 @@
+Incident ID,Date & Time,Type of Crime,Number of Cases,Latitude,Longitude,Neighbourhood,Location
+Sample ID 1,2024-05-31 10:00:00,Theft,9,1.3483° N,103.9332° E,Bedok North,Bedok North Ave 1 Market
+Sample ID 2,2024-05-30 18:30:00,Vandalism,21,1.3421° N,103.9215° E,Bedok South,Bedok Town Park
+Sample ID 3,2024-05-29 14:15:00,Traffic Violation,17,1.3378° N,103.9098° E,Kembangan,Bedok Reservoir Road
+Sample ID 4,2024-05-28 11:00:00,Harrassment,1,1.3530° N,103.9472° E,Tanah Merah,Bedok MRT Station
+Sample ID 5,2024-05-27 20:00:00,Minor Assault,7,1.3324° N,103.9021° E,Siglap,Siglap Centre
+Sample ID 6,2024-05-26 7:30:00,Driving Under Influence,8,1.3269° N,103.8904° E,Bayshore,East Coast Parkway (Exit 36A)
+Sample ID 7,2024-05-25 15:00:00,Theft from Vehicle,9,1.3402° N,103.9189° E,Bedok South,Bedok Stadium Carpark
+Sample ID 8,2024-05-24 2:00:00,Unlawful Assembly,3,1.3507° N,103.9445° E,Kaki Bukit,Blk 618 Bedok North Street 1
+Sample ID 9,2024-05-23 19:00:00,Littering,20,1.3291° N,103.8967° E,Laguna Park,East Coast Park Lagoon 4
+Sample ID 10,2024-05-22 10:30:00,Public Nuisance,11,1.3337° N,103.9112° E,Bedok South,Bedok Hawker Centre (Blk 85)
+Sample ID 11,2024-05-21 14:00:00,Parking Violation,7,1.3284° N,103.8930° E,Siglap,Siglap Link
+Sample ID 12,2024-05-20 11:15:00,Drugs,5,1.3371° N,103.9151° E,Bedok South,Block 112 Bedok South Avenue 3
+Sample ID 13,2024-05-19 6:00:00,Housebreaking,22,1.3524° N,103.9465° E,Kaki Bukit,Blk 620 Bedok North Street 1
+Sample ID 14,2024-05-18 17:00:00,Gambling,8,1.3407° N,103.9194° E,Bedok South,Bedok South Avenue 1 Market
+Sample ID 15,2024-05-17 12:30:00,Public Indecency,6,1.3247° N,103.8879° E,Bayshore,East Coast Park (Carpark C)
+Sample ID 16,2024-05-16 9:00:00,Cheating,1,1.3310° N,103.8994° E,Siglap Centre,Siglap Centre Market
+Sample ID 17,2024-05-15 20:00:00,Counterfeiting,19,1.3394° N,103.9177° E,Bedok South,Bedok Marketplace (Blk 84)
+Sample ID 18,2024-05-14 14:00:00,Criminal Intimidation,1,1.3490° N,103.9433° E,Kaki Bukit,Bedok North Street 3
+Sample ID 19,2024-05-13 11:00:00,Online Scam,53,1.3340° N,103.9119° E,Bedok South,Bedok Mall (Level 2)
+Sample ID 20,2024-05-12 8:00:00,Traffic Accident,1,1.3273° N,103.8917° E,Siglap,Siglap Road (Exit 10)
+Sample ID 21,2024-05-11 16:00:00,Theft from Person,7,1.3500° N,103.9440° E,Kaki Bukit,Bedok North Street 1 Market
+Sample ID 22,2024-05-10 10:00:00,Emergency False Alarm,12,1.3364° N,103.9144° E,Bedok South,Block 108 Bedok South Avenue 3
+Sample ID 23,2024-05-09 5:00:00,Breaking and Entering,21,1.3456° N,103.9349° E,Eunos,Bedok North Street 11
+Sample ID 24,2024-05-08 13:00:00,Fireworks Misuse,18,1.3317° N,103.9001° E,Siglap,Siglap Canal
+Sample ID 25,2024-05-07 8:00:00,Lost and Found,31,1.3260° N,103.8888° E,Bayshore,East Coast Park Carpark A
+Sample ID 26,2024-05-06 19:00:00,Missing Person,20,1.3390° N,103.9173° E,Bedok South,Bedok Bus Interchange
+Sample ID 27,2024-05-05 14:00:00,Criminal Damage,6,1.3483° N,103.9426° E,Kaki Bukit,Blk 616 Bedok North Street 1
+Sample ID 28,2024-05-04 10:30:00,Traffic Violation (Bus Lane),9,1.3330° N,103.9105° E,Bedok South,Bedok South Avenue 3 (Exit 9)
+Sample ID 29,2024-05-03 6:00:00,Possession of Drugs,15,1.3277° N,103.8924° E,Siglap,Siglap Link (Carpark)
+Sample ID 30,2024-05-02 17:00:00,Driving Without Licence,6,1.3410° N,103.9190° E,Bedok South,Bedok South Avenue 1 (Exit 8)
+Sample ID 31,2024-04-30 12:00:00,Suspicious Person,8,1.3497° N,103.9437° E,Kaki Bukit,Bedok North Avenue 4
+Sample ID 32,2024-04-29 8:00:00,Traffic Accident (Hit & Run),21,1.3351° N,103.9137° E,Bedok South,New Upper Changi Road
+Sample ID 33,2024-04-28 16:00:00,Theft of Vehicle,15,1.3294° N,103.8971° E,Laguna Park,East Coast Park Carpark D
+Sample ID 34,2024-04-27 11:00:00,Obstruction of Police,13,1.3439° N,103.9336° E,Eunos,Bedok North Street 11
+Sample ID 35,2024-04-19 10:00:00,Housebreaking,2,1.338° N,103.916° E,Bedok South,Bedok South Ave 2 (Exit 7)
+Sample ID 36,2024-04-18 8:00:00,Gambling,4,1.341° N,103.918° E,Bedok South,Bedok South Avenue 1 Market
+Sample ID 37,2024-04-17 16:00:00,Public Indecency,16,1.325° N,103.888° E,Bayshore,East Coast Park (Carpark B)
+Sample ID 38,2024-04-16 11:00:00,Cheating,2,1.332° N,103.900° E,Siglap Centre,Siglap Centre Food Court
+Sample ID 39,2024-04-15 7:00:00,Counterfeiting,38,1.340° N,103.918° E,Bedok South,Bedok South Residents' Committee Centre
+Sample ID 40,2024-04-14 14:00:00,Criminal Intimidation,12,1.347° N,103.936° E,Eunos,Bedok North Avenue 1
+Sample ID 41,2024-04-13 9:00:00,Online Scam,2,1.334° N,103.912° E,Bedok South,Bedok Mall (Level 1)
+Sample ID 42,2024-04-12 5:00:00,Traffic Accident,14,1.328° N,103.892° E,Siglap,Siglap Link (Carpark)
+Sample ID 43,2024-04-11 13:00:00,Theft from Person,4,1.342° N,103.920° E,Bedok South,Bedok Town Park Playground
+Sample ID 44,2024-04-10 8:00:00,Emergency False Alarm,8,1.326° N,103.889° E,Bayshore,East Coast Park Lagoon 1
+Sample ID 45,2024-04-09 16:00:00,Breaking and Entering,2,1.339° N,103.917° E,Bedok South,Bedok South Avenue 1 (Blk 117)
+Sample ID 46,2024-04-08 11:00:00,Fireworks Misuse,9,1.346° N,103.935° E,Eunos,Bedok North Street 9
+Sample ID 47,2024-04-07 7:00:00,Lost and Found,15,1.330° N,103.898° E,Siglap Centre,Siglap Centre Library
+Sample ID 48,2024-04-06 14:00:00,Missing Person,21,1.344° N,103.933° E,Eunos,Bedok North Avenue
+Sample ID 49,2024-04-05 10:00:00,Traffic Violation (Bus Lane),15,1.337° N,103.915° E,Bedok South,New Upper Changi Road (Exit 10)
+Sample ID 50,2024-04-04 17:00:00,Public Nuisance (Loud Music),20,1.329° N,103.897° E,Laguna Park,East Coast Park Carpark C
+Sample ID 51,2024-04-03 12:00:00,Theft from Shop,8,1.343° N,103.932° E,Eunos,Bedok North Shopping Centre
+Sample ID 52,2024-04-02 8:00:00,Vandalism,12,1.330° N,103.898° E,Siglap Centre,Siglap Community Centre
+Sample ID 53,2024-04-01 16:00:00,Loan Shark Harassment,5,1.346° N,103.935° E,Eunos,Bedok North Street 7
+Sample ID 54,2024-03-31 11:00:00,Emergency False Alarm,3,1.333° N,103.911° E,Bedok South,Bedok Mall (Level 3)
+Sample ID 55,2024-03-30 7:00:00,Lost and Found (Pet),10,1.327° N,103.891° E,Siglap,Siglap Canal Park
+Sample ID 56,2024-03-29 14:00:00,Traffic Accident (Minor),8,1.340° N,103.918° E,Bedok South,Bedok South Avenue 1 (Exit 6)
+Sample ID 57,2024-03-28 10:00:00,Public Intoxication,25,1.347° N,103.936° E,Eunos,Bedok North Avenue 2
+Sample ID 58,2024-03-27 17:00:00,Illegal Money Lending,30,1.334° N,103.912° E,Bedok South,Bedok South Residents' Committee Centre
+Sample ID 59,2024-03-26 12:00:00,Riot,10,1.328° N,103.892° E,Siglap,East Coast Park Carpark B
+Sample ID 60,2024-03-25 8:00:00,Counterfeiting,7,1.342° N,103.920° E,Bedok South,Bedok Marketplace (Blk 83)
+Sample ID 61,2024-03-24 16:00:00,Online Scam,18,1.337° N,103.915° E,Bedok South,Bedok Mall (Level 4)
+Sample ID 62,2024-03-23 11:00:00,Possession of Drugs,5,1.337° N,103.915° E,Bedok South,Bedok Mall (Level 4)
+Sample ID 63,2024-03-22 7:00:00,Traffic Violation (Speeding),12,1.344° N,103.933° E,Eunos,Bedok North Avenue (Exit 5)
+Sample ID 64,2024-03-21 14:00:00,Animal Cruelty,3,1.329° N,103.897° E,Laguna Park,East Coast Park Dog Run
+Sample ID 65,2024-03-20 10:00:00,Public Indecency,8,1.343° N,103.932° E,Eunos,Bedok North Park
+Sample ID 66,2024-03-19 17:00:00,Robbery (Attempted),1,1.330° N,103.898° E,Siglap Centre,Siglap Centre ATM (Blk 21)
+Sample ID 67,2024-03-18 12:00:00,Criminal Damage (Graffiti),15,1.346° N,103.935° E,Eunos,Bedok North Street 5
+Sample ID 68,2024-03-17 8:00:00,Missing Person (Found),1,1.333° N,103.911° E,Bedok South,Bedok Bus Interchange
+Sample ID 69,2024-03-16 16:00:00,Traffic Accident (Hit & Run),2,1.327° N,103.891° E,Siglap,Siglap Link (Exit 9)
+Sample ID 70,2024-03-15 11:00:00,Obstruction of Police,4,1.340° N,103.918° E,Bedok South,Bedok South Avenue 1 (Exit 4)
+Sample ID 71,2024-03-14 7:00:00,Underage Drinking,20,1.347° N,103.936° E,Eunos,Bedok North Crescent
+Sample ID 72,2024-03-13 14:00:00,Harrassment (Online),10,1.334° N,103.912° E,Bedok South,Bedok Mall (Food Court)
+Sample ID 73,2024-03-12 10:00:00,Housebreaking (Attempted),1,1.328° N,103.892° E,Siglap,Siglap Link (Terrace Houses)
+Sample ID 74,2024-03-11 17:00:00,Public Disorder,25,1.342° N,103.920° E,Bedok South,Bedok Town Park Basketball Court
+Sample ID 75,2024-03-10 12:00:00,Driving Under Influence,7,1.337° N,103.915° E,Bedok South,Bedok South Avenue 2 (Exit 3)
+Sample ID 76,2024-03-09 8:00:00,Emergency False Alarm (School),1,1.337° N,103.915° E,Bedok South,Bedok South Avenue 2 (Exit 3)
+Sample ID 77,2024-03-08 16:00:00,Fireworks Misuse (Private Property),3,1.330° N,103.898° E,Siglap Centre,Siglap Drive (Blk 18)
+Sample ID 78,2024-03-07 11:00:00,Obstruction of Traffic,9,1.344° N,103.933° E,Eunos,Bedok North Road
+Sample ID 79,2024-03-06 7:00:00,Theft from Vehicle (Motorcycle),2,1.329° N,103.897° E,Laguna Park,East Coast Park Carpark A
+Sample ID 80,2024-03-05 14:00:00,Gambling (Social),5,1.343° N,103.932° E,Eunos,Bedok North Park (Elderly Corner)
+Sample ID 81,2024-03-04 10:00:00,Public Nuisance (Smoking),12,1.330° N,103.898° E,Siglap Centre,Siglap Centre Coffee Shop (Blk 20)
+Sample ID 82,2024-03-03 17:00:00,Traffic Violation (Parking),18,1.346° N,103.935° E,Eunos,Bedok North Street 3 (Carpark)
+Sample ID 83,2024-03-02 12:00:00,Criminal Intimidation,1,1.333° N,103.911° E,Bedok South,Bedok Mall (Outside Main Entrance)
+Sample ID 84,2024-03-01 8:00:00,Suspicious Person,4,1.327° N,103.891° E,Siglap,Siglap Canal (near hawker centre)
+Sample ID 85,2024-02-29 16:00:00,Online Scam (Phishing),15,1.340° N,103.918° E,Bedok South,Bedok Residents' Committee Centre
+Sample ID 86,2024-02-28 11:00:00,Breaking and Entering (Commercial),1,1.347° N,103.936° E,Eunos,Bedok North Shopping Centre (Blk 79)
+Sample ID 87,2024-02-27 7:00:00,Traffic Accident (Motorcycle),2,1.334° N,103.912° E,Bedok South,Bedok South Avenue 1 (Exit 2)
+Sample ID 88,2024-02-26 14:00:00,Theft (Pickpocketing),6,1.328° N,103.892° E,Siglap,East Coast Park (Beach)
+Sample ID 89,2024-02-25 10:00:00,Cheating,3,1.342° N,103.920° E,Bedok South,Bedok Marketplace (Blk 82)
+Sample ID 90,2024-02-24 17:00:00,Lost and Found (Wallet),1,1.342° N,103.920° E,Bedok South,Bedok Marketplace (Blk 82)
+Sample ID 91,2024-02-23 12:00:00,Public Intoxication (Minor),8,1.330° N,103.898° E,Siglap Centre,Siglap Centre Food Court
+Sample ID 92,2024-02-22 8:00:00,Emergency False Alarm (Commercial),1,1.344° N,103.933° E,Eunos,Bedok North Street 1 (Blk 402)
+Sample ID 93,2024-02-21 16:00:00,Traffic Violation (No Stopping),12,1.329° N,103.897° E,Laguna Park,East Coast Park Carpark D
+Sample ID 94,2024-02-20 11:00:00,Loan Shark Harassment (Threats),5,1.343° N,103.932° E,Eunos,Bedok North Avenue (Blk 610)
+Sample ID 95,2024-02-19 7:00:00,Vandalism (Public Property),18,1.330° N,103.898° E,Siglap Centre,Siglap Community Centre Walls
+Sample ID 96,2024-02-18 14:00:00,Driving Without Licence (Motorcycle),1,1.346° N,103.935° E,Eunos,Bedok North Road (Exit 1)
+Sample ID 97,2024-02-17 10:00:00,Emergency Assist (Medical),1,1.333° N,103.911° E,Bedok South,Bedok Mall (Level 2)
+Sample ID 98,2024-02-16 17:00:00,Public Nuisance (Littering),22,1.327° N,103.891° E,Siglap,East Coast Park Lagoon 3
+Sample ID 99,2024-02-15 12:00:00,Domestic Dispute,2,1.340° N,103.918° E,Bedok South,Block 110 Bedok South Avenue 3
+Sample ID 100,2024-02-14 8:00:00,Robbery (Successful),1,1.347° N,103.936° E,Eunos,Bedok North MRT Station (ATM Machine)
